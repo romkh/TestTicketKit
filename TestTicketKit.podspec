@@ -3,7 +3,7 @@ s.name         = "TestTicketKit"
 s.version      = "0.0.1"
 s.summary      = "To provide a short description of TicketKit here"
 s.homepage    = "https://github.com/romkh/TestTicketKit"
-s.license      = { :type => "MIT" }
+s.license      = { :type => "MIT", :file => "LICENSE" }
 s.author    = { "Roman" => "pp.krome@gmail.com" }
 
 s.requires_arc = true
